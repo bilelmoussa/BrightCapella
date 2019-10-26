@@ -1,0 +1,9 @@
+/*Add Margin to list element admin menu */
+#toplevel_page_brightcapella{
+    margin: 0.5rem 0 !important;
+} 
+
+/* Remove default padding-top for img and add new one  */
+#toplevel_page_brightcapella a .wp-menu-image img{
+    padding-top: 1px;
+}
